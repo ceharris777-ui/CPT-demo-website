@@ -3,11 +3,13 @@ This project is a customizable template website designed for Athletic Trainers a
 Personal Trainers (CPTs). It includes a modern layout and built-in Calendly integration for booking
 sessions.
 Features
+
 - Responsive design
 - Built for fitness professionals
 - Calendly booking integration
 - Easy customization
 - Lightweight setup
+
 Getting Started
 1. Download the project
 2. Open in Visual Studio Code
@@ -26,6 +28,9 @@ Customization
 Update text, images, branding, and replace the Calendly link with your own to start accepting
 bookings.
 Notes
+
 - Requires Node.js
 - Run npm install to generate node_modules
 - Customize before production use
+
+
