@@ -33,4 +33,4 @@ Notes
 - Run npm install to generate node_modules
 - Customize before production use
 
-
+<img width="1439" height="809" alt="Screenshot 2026-03-26 at 2 53 17 PM" src="https://github.com/user-attachments/assets/56ad2fd8-b8d0-436a-974f-967e803d3884" />
